@@ -99,25 +99,3 @@ Copiar
 Editar
 
 ---
-
-# ✍️ O que você precisa fazer:
-
-- Substituir `COLE_AQUI_O_LINK_DO_VÍDEO` pelo link real do seu vídeo no YouTube.
-- Atualizar o `README.md` no seu GitHub (pode editar direto no site ou via terminal).
-
----
-
-# ✅ Pequeno checklist de atualização:
-
-| Tarefa | Status |
-|:------|:-------|
-| Subir vídeo para o YouTube (não listado) | 🔜 |
-| Atualizar link do vídeo no README | 🔜 |
-| Confirmar que o Notebook linka corretamente | ✅ |
-| Confirmar que o Relatório (`relatorio.md`) linka corretamente | ✅ |
-
----
-
-Se quiser, posso ainda montar **um mini texto para você colocar na descrição do vídeo do YouTube** (tipo resumo + hashtags profissionais)! 🚀🎥
-Quer?
-Só responder: **"quero a descrição do vídeo!"** 🎯
