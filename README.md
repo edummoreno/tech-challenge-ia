@@ -1,51 +1,110 @@
 # Tech Challenge - Previsão de Custos Médicos 🏥📊
-# Este projeto é parte do Tech Challenge da Pós-Tech em Inteligência Artificial para Devs.
-# O objetivo é criar um modelo preditivo de regressão para estimar custos médicos individuais de seguros de saúde, utilizando técnicas de Machine Learning.
 
-📚 Conteúdos abordados:
-    • Exploração e análise de dados
-    • Pré-processamento (limpeza e transformação)
-    • Modelagem preditiva com regressão
-    • Avaliação estatística do modelo
-    • Visualizações gráficas dos resultados
+---
 
-🛠️ Tecnologias usadas:
-    • Python 3.10+
-    • Pandas
-    • NumPy
-    • Scikit-Learn
-    • Seaborn
-    • Matplotlib
-    • Statsmodels (para validação estatística)
+## 📚 Sobre o Projeto
 
-🧠 Passos do projeto:
-    1. Exploração dos dados: análise estatística e visualizações.
-    2. Pré-processamento: tratamento de dados categóricos e valores ausentes.
-    3. Modelagem: construção e treinamento de modelo de regressão.
-    4. Validação: análise de métricas, p-values e intervalos de confiança.
-    5. Resultados: comparações gráficas entre valores reais e previstos.
+Este projeto foi desenvolvido para o **Tech Challenge** da Pós-Tech FIAP em Inteligência Artificial para Devs.  
+O objetivo foi criar um **modelo preditivo de regressão** capaz de estimar o custo médico individual com base em características pessoais como idade, IMC, tabagismo e região.
 
-🎥 Vídeo explicativo:
-🔗 Link para o vídeo no YouTube (atualizar depois que gravar!)
+---
 
-👨‍💻 Como rodar o projeto localmente:
-bash
-CopiarEditar
-# Clone o repositório
+## 🛠️ Tecnologias Utilizadas
+
+- Python 3.10+
+- Pandas
+- NumPy
+- Scikit-Learn
+- Seaborn
+- Matplotlib
+- Statsmodels
+- Jupyter Notebook
+
+---
+
+## 🧠 Metodologia
+
+O desenvolvimento foi estruturado em 3 grandes etapas:
+
+1. **Exploração e Análise de Dados**  
+2. **Pré-Processamento e Preparação dos Dados**  
+3. **Modelagem Preditiva, Avaliação e Visualização de Resultados**
+
+Todos os detalhes, insights e resultados podem ser encontrados no **relatório completo**:
+
+👉 [📄 Acesse o Relatório Completo aqui](relatorio.md)
+
+---
+
+## 📈 Resultados
+
+- **Modelo**: Regressão Linear
+- **Métricas Principais**:
+  - **R²**: 0.75
+  - **MSE**: 33.701.904,5
+- **Visualizações**:
+  - Scatter Plot de Valores Reais vs Previstos
+  - Histograma da Distribuição dos Erros
+
+---
+
+## 🎥 Vídeo Explicativo
+
+[🔗 Link para o vídeo no YouTube](#) *(atualizar depois que gravar!)*
+
+---
+
+## 📬 Contato
+
+Em caso de dúvidas ou sugestões:
+
+**Eduardo Moreno Neto**  
+[🔗 LinkedIn](https://www.linkedin.com/in/eduardo-moreno-neto/)
+
+---
+
+## 📂 Como Executar o Projeto
+
+1. Clone o repositório:
+
+```bash
 git clone git@github.com:edummoreno/tech-challenge-ia.git
 
-# Acesse a pasta
+# Acesse o diretório do projeto:
+bash
+CopiarEditar
 cd tech-challenge-ia
-
-# Instale as dependências (use um ambiente virtual se preferir)
+# Instale as dependências:
+bash
+CopiarEditar
 pip install -r requirements.txt
-
-# Rode o notebook ou script principal
+# Execute os scripts ou Notebooks:
+bash
+CopiarEditar
 jupyter notebook
 # ou
-python main.py
+python exploracao_dados.py
+python preprocessamento_dados.py
+python modelo_regressao.py
 
-📬 Contato
-Em caso de dúvidas ou sugestões, entre em contato:
-Eduardo Moreno Neto
-[linkedin](https://www.linkedin.com/in/eduardo-moreno-neto/)
+Vamos prever o futuro, começando pelos custos médicos! 🚀
+
+ruby
+CopiarEditar
+
+---
+
+# 📋 Resumo de tudo que agora você vai ter no GitHub:
+
+| Arquivo | Descrição |
+|:--------|:----------|
+| `README.md` | Apresentação geral do projeto |
+| `relatorio.md` | Análise técnica e detalhada |
+| `requirements.txt` | Dependências |
+| `data/insurance.csv` | Base de dados |
+| `exploracao_dados.py` | Análise exploratória |
+| `preprocessamento_dados.py` | Pré-processamento dos dados |
+| `modelo_regressao.py` | Modelagem e avaliação |
+
+---
+
