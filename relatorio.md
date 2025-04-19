@@ -85,7 +85,7 @@ As seguintes etapas foram realizadas:
 
 ## 8. Links Importantes
 
-- [🔗 Repositório no GitHub](#)
+- [🔗 Repositório no GitHub](https://github.com/edummoreno/tech-challenge-ia)
 - [🔗 Vídeo de Apresentação no YouTube](#)
 
 ---
