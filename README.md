@@ -4,8 +4,8 @@
 
 ## 📚 Sobre o Projeto
 
-Este projeto foi desenvolvido para o **Tech Challenge** da Pós-Tech FIAP em Inteligência Artificial para Devs.  
-O objetivo foi criar um **modelo preditivo de regressão** capaz de estimar o custo médico individual com base em características pessoais como idade, IMC, tabagismo e região.
+Este projeto foi desenvolvido para o **Tech Challenge** da Pós-Tech FIAP em Inteligência Artificial para Devs.
+O objetivo foi criar um **modelo preditivo de regressão** capaz de estimar o custo médico individual com base em características pessoais.
 
 ---
 
@@ -26,13 +26,12 @@ O objetivo foi criar um **modelo preditivo de regressão** capaz de estimar o cu
 
 O desenvolvimento foi estruturado em 3 grandes etapas:
 
-1. **Exploração e Análise de Dados**  
-2. **Pré-Processamento e Preparação dos Dados**  
+1. **Exploração e Análise de Dados**
+2. **Pré-Processamento e Preparação dos Dados**
 3. **Modelagem Preditiva, Avaliação e Visualização de Resultados**
 
-Todos os detalhes, insights e resultados podem ser encontrados no **relatório completo**:
-
-👉 [📄 Acesse o Relatório Completo aqui](relatorio.md)
+**👉 Notebook completo da análise**:
+[🔗 Acessar o Notebook `analise_tech_challenge.ipynb`](notebooks/analise_tech_challenge.ipynb)
 
 ---
 
@@ -42,23 +41,25 @@ Todos os detalhes, insights e resultados podem ser encontrados no **relatório c
 - **Métricas Principais**:
   - **R²**: 0.75
   - **MSE**: 33.701.904,5
-- **Visualizações**:
-  - Scatter Plot de Valores Reais vs Previstos
-  - Histograma da Distribuição dos Erros
 
 ---
 
 ## 🎥 Vídeo Explicativo
 
-[🔗 Link para o vídeo no YouTube](#) *(atualizar depois que gravar!)*
+[🔗 Assista ao Vídeo da Apresentação no YouTube](COLE_AQUI_O_LINK_DO_VÍDEO)
+
+---
+
+## 📄 Relatório Técnico
+
+Para detalhes completos sobre a análise, pré-processamento, modelagem e resultados:
+[📄 Acessar o Relatório Completo (`relatorio.md`)](relatorio.md)
 
 ---
 
 ## 📬 Contato
 
-Em caso de dúvidas ou sugestões:
-
-**Eduardo Moreno Neto**  
+**Eduardo Moreno Neto**
 [🔗 LinkedIn](https://www.linkedin.com/in/eduardo-moreno-neto/)
 
 ---
@@ -69,42 +70,54 @@ Em caso de dúvidas ou sugestões:
 
 ```bash
 git clone git@github.com:edummoreno/tech-challenge-ia.git
+Acesse o diretório do projeto:
 
-# Acesse o diretório do projeto:
 bash
-CopiarEditar
+Copiar
+Editar
 cd tech-challenge-ia
-# Instale as dependências:
+Instale as dependências:
+
 bash
-CopiarEditar
+Copiar
+Editar
 pip install -r requirements.txt
-# Execute os scripts ou Notebooks:
+Execute os scripts ou o notebook:
+
 bash
-CopiarEditar
+Copiar
+Editar
 jupyter notebook
 # ou
 python exploracao_dados.py
 python preprocessamento_dados.py
 python modelo_regressao.py
-
 Vamos prever o futuro, começando pelos custos médicos! 🚀
 
-ruby
-CopiarEditar
+yaml
+Copiar
+Editar
 
 ---
 
-# 📋 Resumo de tudo que agora você vai ter no GitHub:
+# ✍️ O que você precisa fazer:
 
-| Arquivo | Descrição |
-|:--------|:----------|
-| `README.md` | Apresentação geral do projeto |
-| `relatorio.md` | Análise técnica e detalhada |
-| `requirements.txt` | Dependências |
-| `data/insurance.csv` | Base de dados |
-| `exploracao_dados.py` | Análise exploratória |
-| `preprocessamento_dados.py` | Pré-processamento dos dados |
-| `modelo_regressao.py` | Modelagem e avaliação |
+- Substituir `COLE_AQUI_O_LINK_DO_VÍDEO` pelo link real do seu vídeo no YouTube.
+- Atualizar o `README.md` no seu GitHub (pode editar direto no site ou via terminal).
 
 ---
 
+# ✅ Pequeno checklist de atualização:
+
+| Tarefa | Status |
+|:------|:-------|
+| Subir vídeo para o YouTube (não listado) | 🔜 |
+| Atualizar link do vídeo no README | 🔜 |
+| Confirmar que o Notebook linka corretamente | ✅ |
+| Confirmar que o Relatório (`relatorio.md`) linka corretamente | ✅ |
+
+---
+
+Se quiser, posso ainda montar **um mini texto para você colocar na descrição do vídeo do YouTube** (tipo resumo + hashtags profissionais)! 🚀🎥
+Quer?
+Só responder: **"quero a descrição do vídeo!"** 🎯
