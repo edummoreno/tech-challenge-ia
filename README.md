@@ -61,4 +61,4 @@ jupyter notebook
 python main.py
 📬 Contato
 Em caso de dúvidas ou sugestões, entre em contato:
-Eduardo Moreno Neto – LinkedIn [linkedin](https://www.linkedin.com/in/eduardo-moreno-neto/)
+Eduardo Moreno Neto [linkedin](https://www.linkedin.com/in/eduardo-moreno-neto/)
