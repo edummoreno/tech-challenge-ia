@@ -1,6 +1,6 @@
-#Tech Challenge - Previsão de Custos Médicos 🏥📊
-#Este projeto é parte do Tech Challenge da Pós-Tech em Inteligência Artificial para Devs.
-#O objetivo é criar um modelo preditivo de regressão para estimar custos médicos individuais #de seguros de saúde, utilizando técnicas de Machine Learning.
+# Tech Challenge - Previsão de Custos Médicos 🏥📊
+# Este projeto é parte do Tech Challenge da Pós-Tech em Inteligência Artificial para Devs.
+# O objetivo é criar um modelo preditivo de regressão para estimar custos médicos individuais de seguros de saúde, utilizando técnicas de Machine Learning.
 
 📚 Conteúdos abordados:
     • Exploração e análise de dados
