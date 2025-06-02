@@ -31,29 +31,13 @@ O desenvolvimento foi estruturado em 3 grandes etapas:
 3. **Modelagem Preditiva, Avaliação e Visualização de Resultados**
 
 **👉 Notebook completo da análise**:
-[🔗 Acessar o Notebook `analise_tech_challenge.ipynb`](notebooks/analise_tech_challenge.ipynb)
-
----
-
-## 📈 Resultados
-
-- **Modelo**: Regressão Linear
-- **Métricas Principais**:
-  - **R²**: 0.75
-  - **MSE**: 33.701.904,5
-
+[🔗 Acessar o Notebook 'Análise_Preditiva_de_Custos_Médicos.ipynb'](Notebook/Análise_Preditiva_de_Custos_Médicos.ipynb)
+[🔗 Acessar o Notebook 'V4_Análise_Preditiva_de_Custos_Médicos.ipynb'](Notebook/V4_Análise_Preditiva_de_Custos_Médicos.ipynb)
 ---
 
 ## 🎥 Vídeo Explicativo
 
-[🔗 Assista ao Vídeo da Apresentação no YouTube](COLE_AQUI_O_LINK_DO_VÍDEO)
-
----
-
-## 📄 Relatório Técnico
-
-Para detalhes completos sobre a análise, pré-processamento, modelagem e resultados:
-[📄 Acessar o Relatório Completo (`relatorio.md`)](relatorio.md)
+[🔗 Assista ao Vídeo da Apresentação no YouTube](https://youtu.be/X2-LMKsDD08?feature=shared)
 
 ---
 
