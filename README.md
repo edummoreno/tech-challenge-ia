@@ -43,10 +43,21 @@ O desenvolvimento foi estruturado em 3 grandes etapas:
 
 ---
 
-## 📬 Contato
+## 📬 Contatos do grupo
+
+
+**Marco Antonio**
+- [🔗 LinkedIn](https://www.linkedin.com/in/marco-antonio-augusto-58b73794)
 
 **Eduardo Moreno Neto**
-[🔗 LinkedIn](https://www.linkedin.com/in/eduardo-moreno-neto/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/eduardo-moreno-neto/)
+
+**Robert Harada**
+- [🔗 LinkedIn](https://www.linkedin.com/in/)
+
+**Alexandre Santana**
+- [🔗 LinkedIn](https://www.linkedin.com/in/franciscoeduardo-granado)
+
 
 ---
 
