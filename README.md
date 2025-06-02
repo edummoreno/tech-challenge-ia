@@ -33,7 +33,7 @@ O desenvolvimento foi estruturado em 3 grandes etapas:
 **👉 Notebook completo da análise**:
 ##
 [🔗'Análise_Preditiva_de_Custos_Médicos.ipynb'](Notebook/Análise_Preditiva_de_Custos_Médicos.ipynb)
-##
+
 [🔗'V4_Análise_Preditiva_de_Custos_Médicos.ipynb'](Notebook/V4_Análise_Preditiva_de_Custos_Médicos.ipynb)
 ---
 
