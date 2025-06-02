@@ -30,7 +30,7 @@ O desenvolvimento foi estruturado em 3 grandes etapas:
 2. **Pré-Processamento e Preparação dos Dados**
 3. **Modelagem Preditiva, Avaliação e Visualização de Resultados**
 
-## 👉 Notebook completo da análise**:
+## 👉 Notebook completo da análise:
 
 - [🔗'Análise_Preditiva_de_Custos_Médicos.ipynb'](Notebook/Análise_Preditiva_de_Custos_Médicos.ipynb)
 - [🔗'V4_Análise_Preditiva_de_Custos_Médicos.ipynb'](Notebook/V4_Análise_Preditiva_de_Custos_Médicos.ipynb)
